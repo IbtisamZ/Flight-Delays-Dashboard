@@ -13,3 +13,8 @@ The data comes from a Kaggle dataset, it tracks the on-time performance of US do
 
 ### Tools
 - Tableau
+
+### Links
+- [1st dashboard](https://public.tableau.com/app/profile/ibtisam.z/viz/DashboardFlightdelays/DashboardFlightdelays)
+- [2nd dashboard](https://public.tableau.com/app/profile/ibtisam.z/viz/DashboardAvgdeparturedelay/DashboardAvgdeparturedelay)
+- [3rd dashboard](https://public.tableau.com/app/profile/ibtisam.z/viz/StoryFlightsdelaysreasons/StoryFlightsdelaysreasonsperstate)
